@@ -38,6 +38,8 @@ In summary: <br>
 Before you are able to push your changes, sometimes GitHub will ask you to pull changes from the repository first. 
 <br> run `pull` in order to grab changes made to the repository.
 
+<sub> If any issues occur during any of these processes, pls shoot me a dm and I'll take a look at it asap. </sub>
+
 ## Checking the status of the repository
 > This will show you all of the files that have not been commited yet. Useful for debugging sometimes.
 > 
