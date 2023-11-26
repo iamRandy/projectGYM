@@ -8,7 +8,20 @@ TASKS: <br>
 * Basic features:
   * Shows amount of calories burned (based on workouts)
   * Shows the number of routines/tasks completed
+# Routine Screen +
+Developers: Xia, Bernice
 
+**Goal: Create a user friendly routine page for users to input new routines or fill out current ones.** <br>
+<br> TASKS:
+* Button that creates a new routine
+  * You should be able to add tasks or do something with that routine
+* User friendly page: make the page intuitive
+
+> Here's a page that might help with building this page: https://contactmentor.com/login-form-react-js-code/
+
+<br>
+
+# GitHub Stuff
 
 ## BRANCHES
 > Branches are a very important feature in GitHub. We use it a lot when working in a group.
@@ -16,6 +29,9 @@ TASKS: <br>
 **Always** make sure you are in the right branch before commiting and pushing any files to the repository. You can check which branch you are working in by running `git branch`. This will show you a list of branches, and the branch you are in will be marked with an asterisk:
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/iamRandy/projectGYM/blob/homeScreen/branches.jpg)
 
+**If you are on the wrong branch**, you can switch branches by doing: `git checkout NAME_OF_BRANCH`
+<br>
+<br>
 ## PUSHING AND PULLING CHANGES
 > **Pushing your Changes:**
 1. **Add all your changes**<br>
