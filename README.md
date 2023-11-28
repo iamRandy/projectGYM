@@ -6,6 +6,7 @@ Developers: Kai and Aaron
 * A sign up button
 * A log in button
 * Users should be able to log in after entering the correct credentials (if it exists)
+* Any additional features that might be useful
 
 > Here's a page that might help with building this page: https://contactmentor.com/login-form-react-js-code/
 
