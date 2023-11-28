@@ -2,6 +2,7 @@
 Developers: Luke and Randy
 
 **Goal: Create a user friendly home screen for users. Easy access to all features and a place to view your progress.**
+
 TASKS: <br>
 * A page with user friendly nav bar somewhere
 * Shows the current progress of the user regarding workout goals/routines based on the routine page
