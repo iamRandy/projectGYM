@@ -8,19 +8,6 @@ TASKS: <br>
 * Basic features:
   * Shows amount of calories burned (based on workouts)
   * Shows the number of routines/tasks completed
-# Routine Screen +
-Developers: Xia, Bernice
-
-**Goal: Create a user friendly routine page for users to input new routines or fill out current ones.** <br>
-<br> TASKS:
-* Button that creates a new routine
-  * You should be able to add tasks or do something with that routine
-* User friendly page: make the page intuitive
-
-> Here's a page that might help with building this page: https://contactmentor.com/login-form-react-js-code/
-
-<br>
-
 
 # REACT Stuff
 
