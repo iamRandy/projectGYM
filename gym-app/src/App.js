@@ -1,15 +1,20 @@
 import './App.css';
-import sidebar from './components/sidebar';
+import Sidebar from './components/Sidebar';
+
+const secret = process.env.REACT_APP_MYSECRETKEY;
+console.log(secret);
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
-          Gym App is cool
-        </p>
+        <div className="dashboard">
 
-        <sidebar />
+
+
+        </div>.
+
+        <Sidebar />
 
       </header>
     </div>
